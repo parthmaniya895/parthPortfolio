@@ -28,13 +28,13 @@ const Header = () => {
       activeUrlPath: ["about"],
       svg: "/assets/img/icons/about.svg",
     },
-    {
-      id: 3,
-      title: "Services",
-      href: "services",
-      activeUrlPath: ["services"],
-      svg: "/assets/img/icons/services.svg",
-    },
+    // {
+    //   id: 3,
+    //   title: "Services",
+    //   href: "services",
+    //   activeUrlPath: ["services"],
+    //   svg: "/assets/img/icons/services.svg",
+    // },
     {
       id: 4,
       title: "Portfolio",
@@ -42,13 +42,13 @@ const Header = () => {
       activeUrlPath: ["portfolio", "portfolio-details"],
       svg: "/assets/img/icons/portfolio.svg",
     },
-    {
-      id: 5,
-      title: "Blog",
-      href: "blog",
-      activeUrlPath: ["blog", "article"],
-      svg: "/assets/img/icons/blog.svg",
-    },
+    // {
+    //   id: 5,
+    //   title: "Blog",
+    //   href: "blog",
+    //   activeUrlPath: ["blog", "article"],
+    //   svg: "/assets/img/icons/blog.svg",
+    // },
     {
       id: 6,
       title: "Contact",

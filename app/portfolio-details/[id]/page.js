@@ -13,9 +13,9 @@ const page = () => {
   const searchParams = useSearchParams();
   // const id = searchParams.get("id");
   const { id } = useParams();
-  const title = searchParams.get("title");
+  // const title = searchParams.get("title");
 
-  console.log('---------title------>', title);
+  // console.log('---------title------>', title);
 
   const [data, setData] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(null);
