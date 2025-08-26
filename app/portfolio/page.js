@@ -89,7 +89,10 @@ const page = () => {
                       <div className="text">
                         <div className="info">
                           {/* <Link href={`portfolio-details/${item.title?.toLowerCase().replace(/\s+/g, '-')}`} className="title"> */}
-                          <Link href={`portfolio-details?id=${item.id}`} className="title">
+                          {/* <Link href={{ pathname: "/portfolio-details", query: { id: item.id, title: item.title } }} className="title">
+                            {item.title}
+                          </Link> */}
+                          <Link href={`/portfolio-details/${item.id}`} className="title">
                             {item.title}
                           </Link>
                           <p className="subtitle">{item.subtitle}</p>
