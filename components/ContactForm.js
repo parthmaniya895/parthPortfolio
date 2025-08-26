@@ -9,7 +9,7 @@ const ContactForm = () => {
     budget: "",
     subject: "",
     message: "",
-    template: "bentofolio tailwind react",
+    template: "Parth Maniya PortFolio",
   });
 
   const { name, email, budget, subject, message, template } = mailData;
@@ -49,7 +49,7 @@ const ContactForm = () => {
               message: "",
               subject: "",
               budget: "",
-              template: "Bentofolio react",
+              template: "Parth Maniya PortFolio",
             });
           },
           (err) => {
