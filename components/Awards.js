@@ -1,61 +1,80 @@
+"use client";
+import axios from "axios";
+import { useEffect, useState } from "react";
+
 const Awards = () => {
-  const awardItems = [
-    {
-      id: 1,
-      icon: "/assets/img/icons/IBM.svg",
-      title: "Runner-up – Team Lead",
-      date: "IBM SkillsBuild - Internship",
-      award: "Appreciation ",
-    },
-    {
-      id: 2,
-      icon: "/assets/img/icons/Tecxar.svg",
-      title: "Employee of the Quarter",
-      date: "Tecxar - Sr. UI/UX Designer",
-      award: "Award",
-    },
-    {
-      id: 3,
-      icon: "/assets/img/icons/ClearDu.svg",
-      title: "Performance appreciation",
-      date: "ClearDu - Sr. Product Designer",
-      award: "Recognition",
-    },
-    {
-      id: 4,
-      icon: "/assets/img/icons/Tecxar.svg",
-      title: "Intern of the Year",
-      date: "Tecxar - UI/UX Design Internship",
-      award: "Award",
-    },
-    {
-      id: 5,
-      icon: "/assets/img/icons/Silver Oak.svg",
-      title: "Project Poster Presentation",
-      date: "Silver Oak College",
-      award: "Winner",
-    },
-    {
-      id: 6,
-      icon: "/assets/img/icons/Vidyadhish-Vidyasankul.svg",
-      title: "Student of the Quarter",
-      date: "Vidyadhish Vidyasankul",
-      award: "Award",
-    },
-    {
-      id: 7,
-      icon: "/assets/img/icons/Navjivan.svg",
-      title: "Top “Project Maker”",
-      date: "Navjivan Sec. & Higher Sec. School ",
-      award: "Winner",
-    },
-  ];
+  const [data, setData] = useState([]);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const res = await axios.get("/aboutPage/awards/data.json");
+        setData(res.data);
+      } catch (err) {
+        console.error("Error fetching portfolio data:", err);
+      }
+    };
+
+    fetchData();
+  }, []);
+
+  // const awardItems = [
+  //   {
+  //     id: 1,
+  //     icon: "/assets/img/icons/IBM.svg",
+  //     title: "Runner-up – Team Lead",
+  //     date: "IBM SkillsBuild - Internship",
+  //     award: "Appreciation ",
+  //   },
+  //   {
+  //     id: 2,
+  //     icon: "/assets/img/icons/Tecxar.svg",
+  //     title: "Employee of the Quarter",
+  //     date: "Tecxar - Sr. UI/UX Designer",
+  //     award: "Award",
+  //   },
+  //   {
+  //     id: 3,
+  //     icon: "/assets/img/icons/ClearDu.svg",
+  //     title: "Performance appreciation",
+  //     date: "ClearDu - Sr. Product Designer",
+  //     award: "Recognition",
+  //   },
+  //   {
+  //     id: 4,
+  //     icon: "/assets/img/icons/Tecxar.svg",
+  //     title: "Intern of the Year",
+  //     date: "Tecxar - UI/UX Design Internship",
+  //     award: "Award",
+  //   },
+  //   {
+  //     id: 5,
+  //     icon: "/assets/img/icons/Silver Oak.svg",
+  //     title: "Project Poster Presentation",
+  //     date: "Silver Oak College",
+  //     award: "Winner",
+  //   },
+  //   {
+  //     id: 6,
+  //     icon: "/assets/img/icons/Vidyadhish-Vidyasankul.svg",
+  //     title: "Student of the Quarter",
+  //     date: "Vidyadhish Vidyasankul",
+  //     award: "Award",
+  //   },
+  //   {
+  //     id: 7,
+  //     icon: "/assets/img/icons/Navjivan.svg",
+  //     title: "Top “Project Maker”",
+  //     date: "Navjivan Sec. & Higher Sec. School ",
+  //     award: "Winner",
+  //   },
+  // ];
   return (
     <div className="awards-recognitions">
-      <h2 className="main-common-title">Awards and Recognitions</h2>
+      <h2 className="main-common-title">{data?.title}</h2>
       <div className="awards-recognitions-main">
         <ul className="list-unstyled">
-          {awardItems.map((item) => (
+          {data?.awardItems?.map((item) => (
             <li key={item.id}>
               <a href="#" className="d-block w-100" key={item.id}>
                 <div className="awards-item">

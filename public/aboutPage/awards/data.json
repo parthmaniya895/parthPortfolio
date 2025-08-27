@@ -1,0 +1,54 @@
+{
+    "title": "Awards and Recognitions",
+    "awardItems": [
+    {
+      "id": 1,
+      "icon": "/assets/img/icons/IBM.svg",
+      "title": "Runner-up – Team Lead",
+      "date": "IBM SkillsBuild - Internship",
+      "award": "Appreciation "
+    },
+    {
+      "id": 2,
+      "icon": "/assets/img/icons/Tecxar.svg",
+      "title": "Employee of the Quarter",
+      "date": "Tecxar - Sr. UI/UX Designer",
+      "award": "Award"
+    },
+    {
+      "id": 3,
+      "icon": "/assets/img/icons/ClearDu.svg",
+      "title": "Performance appreciation",
+      "date": "ClearDu - Sr. Product Designer",
+      "award": "Recognition"
+    },
+    {
+      "id": 4,
+      "icon": "/assets/img/icons/Tecxar.svg",
+      "title": "Intern of the Year",
+      "date": "Tecxar - UI/UX Design Internship",
+      "award": "Award"
+    },
+    {
+      "id": 5,
+      "icon": "/assets/img/icons/Silver Oak.svg",
+      "title": "Project Poster Presentation",
+      "date": "Silver Oak College",
+      "award": "Winner"
+    },
+    {
+      "id": 6,
+      "icon": "/assets/img/icons/Vidyadhish-Vidyasankul.svg",
+      "title": "Student of the Quarter",
+      "date": "Vidyadhish Vidyasankul",
+      "award": "Award"
+    },
+    {
+      "id": 7,
+      "icon": "/assets/img/icons/Navjivan.svg",
+      "title": "Top “Project Maker”",
+      "date": "Navjivan Sec. & Higher Sec. School ",
+      "award": "Winner"
+    }
+  ]
+}

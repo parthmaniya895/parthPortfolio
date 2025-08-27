@@ -1,37 +1,54 @@
 "use client";
 import { sliderProps } from "@/utility/sliderProps";
+import axios from "axios";
+import { useEffect, useState } from "react";
 import Slider from "react-slick";
-const testimonialData = [
-  {
-    website: "LinkedIn",
-    link: "",
-    details: "“Parth worked with us at VancoreTech and truly transformed our design presence. He created a strong brand identity and intuitive visuals that ma",
-    designation: "<span>Eshani Sankhla</span> - Founder of Vancoretech",
-  },
-  {
-    website: "LinkedIn",
-    link: "",
-    details: `"We've been using BentoFolio for over a year now, and I must say, it's been a game - changer for us.The user interface is intuitive and the feature.`,
-    designation: "<span>Riddhi Patel</span> - Product Designer",
-  },
-  {
-    website: "LinkedIn",
-    link: "",
-    details: `Parth is a skilled designer with strong communication skills. He understands tasks well and always completes his work on time."`,
-    designation: "<span>Sachin Rathor</span> - Founder of dizayn.io",
-  },
-];
+// const testimonialData = [
+//   {
+//     website: "LinkedIn",
+//     link: "",
+//     details: "“Parth worked with us at VancoreTech and truly transformed our design presence. He created a strong brand identity and intuitive visuals that ma",
+//     designation: "<span>Eshani Sankhla</span> - Founder of Vancoretech",
+//   },
+//   {
+//     website: "LinkedIn",
+//     link: "",
+//     details: `"We've been using BentoFolio for over a year now, and I must say, it's been a game - changer for us.The user interface is intuitive and the feature.`,
+//     designation: "<span>Riddhi Patel</span> - Product Designer",
+//   },
+//   {
+//     website: "LinkedIn",
+//     link: "",
+//     details: `Parth is a skilled designer with strong communication skills. He understands tasks well and always completes his work on time."`,
+//     designation: "<span>Sachin Rathor</span> - Founder of dizayn.io",
+//   },
+// ];
 
 
 const Testimonial = () => {
+  const [data, setData] = useState([]);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const res = await axios.get("/testimonialData/data.json");
+        setData(res.data);
+      } catch (err) {
+        console.error("Error fetching portfolio data:", err);
+      }
+    };
+
+    fetchData();
+  }, []);
+
   return (
     <div className="client-feedback">
-      <h2 className="main-common-title">Trusted By 24+ Clients</h2>
+      <h2 className="main-common-title">{data?.title}</h2>
       <Slider
         {...sliderProps.testimonialSlider}
         className="row client-feedback-slider"
       >
-        {testimonialData?.map((testimonial, index) => {
+        {data?.testimonialData?.map((testimonial, index) => {
           return (
             <div key={index} className="col-lg-6">
               <div className="feedback-item">
