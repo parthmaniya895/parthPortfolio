@@ -1,338 +1,340 @@
 [
-  {
-    "id": 1,
-    "title": "Servex - Call Center Agent Portal",
-    "subtitle": "SaaS App | UI/UX Design",
-    "projectMainPageImg": "../assets/img/projects/project-1.png",
-    "img": "../assets/img/projects/project-details-1.png",
-    "alt": "project-details-1",
-    "ClientFor": {
-      "title": "Client For",
-      "content": "Ezsip Pvt. Ltd"
-    },
-    "Services": {
-      "title": "Services",
-      "content": "User Interface Design of Agent Portal",
-      "link": {
-        "title": "flexiflow.com",
-        "url": "#"
-      }
-    },
-    "Overview": {
-      "title": "Overview",
-      "content": "The Servex Agent Portal was designed to streamline call center operations by combining multiple tools into a single, intuitive platform. Agents previously struggled with scattered workflows, switching between different dashboards for dialing, follow-ups, and reporting. My role as a UI/UX Designer was to simplify these processes through research, wireframing, and high-fidelity design in Figma. The portal brings together campaign management, a built-in dialer, customer tracking, and performance reports into one interface, helping agents work faster and enabling supervisors to monitor results more effectively.",
-      "listData": [
-            {
-                "title": "Research",
-                "content": "To understand agent needs, I conducted quick interviews with 5 agents and 2 supervisors. Their main pain points included slow navigation, missed follow-ups, and difficulty interpreting reports. I also reviewed competitor dashboards like Zoho and Freshdesk to identify best practices. These insights shaped the portal’s structure, ensuring tasks were completed in 2–3 clicks with simplified reporting."
-            },
-            {
-                "title": "Information Architecture",
-                "content": "I structured the portal into clear modules: Dashboard, Dialer, Customers, Follow-ups, and Reports. This hierarchy helped agents quickly find what they need while giving supervisors a top-level view. User flows were mapped to ensure that common tasks like campaign selection or logging follow-ups required minimal steps, reducing time spent navigating."
-            },
-            {
-                "title": "Wireframing and Prototyping",
-                "content": " I began with low-fidelity wireframes to test layout options and flows. After validating the structure with stakeholders, I created high-fidelity prototypes in Figma using consistent grids, typography, and color schemes. Interactive prototypes demonstrated the portal’s workflows, helping refine usability before moving into final design."
-            }
-        ]
-    },
-    "innerImages": [
-      {
+    {
         "id": 1,
-        "image": "../assets/img/projects/project-details-2.png",
-        "altTag": "project-details-2"
-      },
-      {
-        "id": 2,
-        "image": "../assets/img/projects/project-details-3.png",
-        "altTag": "project-details-3"
-      }
-    ],
-    "Challenges": {
-      "title": "Challenges",
-      "content": "Designing the Servex Agent Portal came with multiple challenges, from managing complex workflows to ensuring a smooth experience for both agents and supervisors. Since the platform had to handle large volumes of data while remaining user-friendly, it required careful planning of structure, interactions, and visuals. Here are some key challenges and how they were solved:",
-      "listData": [
-            {
-                "title": "Responsive Design:",
-                "content": [
-                    {
-                        "title": "Challenge",
-                        "content": "Agents accessed the portal on different devices, making it difficult to ensure consistency."
-                    },
-                    {
-                        "title": "Solution",
-                        "content": "Applied responsive design with flexible grids and scalable UI components, ensuring the portal worked seamlessly on desktops and tablets."
-                    }
-                ]
-            },
-            {
-                "title": "Data Overload:",
-                "content": [
-                    {
-                        "title": "Challenge",
-                        "content": "The dashboard contained too much information, overwhelming agents."
-                    },
-                    {
-                        "title": "Solution",
-                        "content": "Used progressive disclosure, showing essential KPIs upfront while allowing drill-down for detailed reports."
-                    }
-                ]
-            },
-            {
-                "title": "Navigation Efficiency:",
-                "content": [
-                    {
-                        "title": "Challenge",
-                        "content": "Agents had to switch between multiple dashboards to perform simple tasks."
-                    },
-                    {
-                        "title": "Solution",
-                        "content": "Unified core functions (dialer, follow-ups, reports) into a single streamlined portal, reducing clicks and improving speed."
-                    }
-                ]
-            },
-            {
-                "title": "Reporting & Visibility:",
-                "content": [
-                    {
-                        "title": "Challenge",
-                        "content": "Supervisors lacked clarity in monitoring team performance and daily activities."
-                    },
-                    {
-                        "title": "Solution",
-                        "content": "Designed interactive charts, color-coded KPIs, and consolidated reports for clear performance tracking."
-                    }
-                ]
-            }            
-        ]
-    },
-    "ResultsConclusion": {
-        "title": "Results/Conclusion",
-        "content": "The Servex Agent Portal design successfully improved agent productivity and supervisor visibility. Agents were able to complete tasks faster with reduced navigation, while supervisors benefited from simplified reporting and analytics. The clean, responsive UI led to positive feedback from the team, and onboarding for new agents improved by 30%. With its unified structure and modern visuals, the portal became a reliable and efficient tool for daily call center operations. Ongoing updates and user testing will continue to ensure its effectiveness and scalability."
-    }
-  },
-  {
-    "id": 2,
-    "title": "Vpay. - Online Payment Mobile App",
-    "subtitle": "Mobile App Design | UX Design",
-    "projectMainPageImg": "../../assets/img/projects/project-2.png",
-    "img": "../../assets/img/projects/project-2.png",
-    "alt": "project-details-1",
-    "ClientFor": {
-      "title": "Client For",
-      "content": "Ezsip Pvt. Ltd"
-    },
-    "Services": {
-      "title": "Services",
-      "content": "User Interface Design of Agent Portal",
-      "link": {
-        "title": "flexiflow.com",
-        "url": "#"
-      }
-    },
-    "Overview": {
-      "title": "Overview",
-      "content": "The Servex Agent Portal was designed to streamline call center operations by combining multiple tools into a single, intuitive platform. Agents previously struggled with scattered workflows, switching between different dashboards for dialing, follow-ups, and reporting. My role as a UI/UX Designer was to simplify these processes through research, wireframing, and high-fidelity design in Figma. The portal brings together campaign management, a built-in dialer, customer tracking, and performance reports into one interface, helping agents work faster and enabling supervisors to monitor results more effectively.",
-      "listData": [
-            {
-                "title": "Research",
-                "content": "To understand agent needs, I conducted quick interviews with 5 agents and 2 supervisors. Their main pain points included slow navigation, missed follow-ups, and difficulty interpreting reports. I also reviewed competitor dashboards like Zoho and Freshdesk to identify best practices. These insights shaped the portal’s structure, ensuring tasks were completed in 2–3 clicks with simplified reporting."
-            },
-            {
-                "title": "Information Architecture",
-                "content": "I structured the portal into clear modules: Dashboard, Dialer, Customers, Follow-ups, and Reports. This hierarchy helped agents quickly find what they need while giving supervisors a top-level view. User flows were mapped to ensure that common tasks like campaign selection or logging follow-ups required minimal steps, reducing time spent navigating."
-            },
-            {
-                "title": "Wireframing and Prototyping",
-                "content": " I began with low-fidelity wireframes to test layout options and flows. After validating the structure with stakeholders, I created high-fidelity prototypes in Figma using consistent grids, typography, and color schemes. Interactive prototypes demonstrated the portal’s workflows, helping refine usability before moving into final design."
+        "title": "Servex - Call Center Agent Portal",
+        "subtitle": "SaaS App | UI/UX Design",
+        "projectMainPageImg": "../assets/img/projects/project-1.png",
+        "img": "../assets/img/projects/project-details-1.png",
+        "alt": "project-details-1",
+        "ClientFor": {
+            "title": "Client For",
+            "content": "Ezsip Pvt. Ltd"
+        },
+        "Services": {
+            "title": "Services",
+            "content": "User Interface Design of Agent Portal",
+            "link": {
+                "title": "flexiflow.com",
+                "url": "#"
             }
-        ]
-    },
-    "innerImages": [
-      {
-        "id": 1,
-        "image": "../assets/img/projects/project-details-2.png",
-        "altTag": "project-details-2"
-      },
-      {
-        "id": 2,
-        "image": "../assets/img/projects/project-details-3.png",
-        "altTag": "project-details-3"
-      }
-    ],
-    "Challenges": {
-      "title": "Challenges",
-      "content": "Designing the Servex Agent Portal came with multiple challenges, from managing complex workflows to ensuring a smooth experience for both agents and supervisors. Since the platform had to handle large volumes of data while remaining user-friendly, it required careful planning of structure, interactions, and visuals. Here are some key challenges and how they were solved:",
-      "listData": [
+        },
+        "Overview": {
+            "title": "Overview",
+            "content": "The Servex Agent Portal was designed to streamline call center operations by combining multiple tools into a single, intuitive platform. Agents previously struggled with scattered workflows, switching between different dashboards for dialing, follow-ups, and reporting. My role as a UI/UX Designer was to simplify these processes through research, wireframing, and high-fidelity design in Figma. The portal brings together campaign management, a built-in dialer, customer tracking, and performance reports into one interface, helping agents work faster and enabling supervisors to monitor results more effectively.",
+            "listData": [
+                {
+                    "title": "Research",
+                    "content": "To understand agent needs, I conducted quick interviews with 5 agents and 2 supervisors. Their main pain points included slow navigation, missed follow-ups, and difficulty interpreting reports. I also reviewed competitor dashboards like Zoho and Freshdesk to identify best practices. These insights shaped the portal’s structure, ensuring tasks were completed in 2–3 clicks with simplified reporting."
+                },
+                {
+                    "title": "Information Architecture",
+                    "content": "I structured the portal into clear modules: Dashboard, Dialer, Customers, Follow-ups, and Reports. This hierarchy helped agents quickly find what they need while giving supervisors a top-level view. User flows were mapped to ensure that common tasks like campaign selection or logging follow-ups required minimal steps, reducing time spent navigating."
+                },
+                {
+                    "title": "Wireframing and Prototyping",
+                    "content": " I began with low-fidelity wireframes to test layout options and flows. After validating the structure with stakeholders, I created high-fidelity prototypes in Figma using consistent grids, typography, and color schemes. Interactive prototypes demonstrated the portal’s workflows, helping refine usability before moving into final design."
+                }
+            ]
+        },
+        "innerImages": [
             {
-                "title": "Responsive Design:",
-                "content": [
-                    {
-                        "title": "Challenge",
-                        "content": "Agents accessed the portal on different devices, making it difficult to ensure consistency."
-                    },
-                    {
-                        "title": "Solution",
-                        "content": "Applied responsive design with flexible grids and scalable UI components, ensuring the portal worked seamlessly on desktops and tablets."
-                    }
-                ]
+                "id": 1,
+                "image": "../assets/img/projects/project-details-2.png",
+                "altTag": "project-details-2"
             },
             {
-                "title": "Data Overload:",
-                "content": [
-                    {
-                        "title": "Challenge",
-                        "content": "The dashboard contained too much information, overwhelming agents."
-                    },
-                    {
-                        "title": "Solution",
-                        "content": "Used progressive disclosure, showing essential KPIs upfront while allowing drill-down for detailed reports."
-                    }
-                ]
-            },
-            {
-                "title": "Navigation Efficiency:",
-                "content": [
-                    {
-                        "title": "Challenge",
-                        "content": "Agents had to switch between multiple dashboards to perform simple tasks."
-                    },
-                    {
-                        "title": "Solution",
-                        "content": "Unified core functions (dialer, follow-ups, reports) into a single streamlined portal, reducing clicks and improving speed."
-                    }
-                ]
-            },
-            {
-                "title": "Reporting & Visibility:",
-                "content": [
-                    {
-                        "title": "Challenge",
-                        "content": "Supervisors lacked clarity in monitoring team performance and daily activities."
-                    },
-                    {
-                        "title": "Solution",
-                        "content": "Designed interactive charts, color-coded KPIs, and consolidated reports for clear performance tracking."
-                    }
-                ]
-            }            
-        ]
-    },
-    "ResultsConclusion": {
-        "title": "Results/Conclusion",
-        "content": "The Servex Agent Portal design successfully improved agent productivity and supervisor visibility. Agents were able to complete tasks faster with reduced navigation, while supervisors benefited from simplified reporting and analytics. The clean, responsive UI led to positive feedback from the team, and onboarding for new agents improved by 30%. With its unified structure and modern visuals, the portal became a reliable and efficient tool for daily call center operations. Ongoing updates and user testing will continue to ensure its effectiveness and scalability."
-    }
-  },
-  {
-    "id": 3,
-    "title": "Gifteview - Gift Review Website",
-    "subtitle": "Web Design | UI/UX Design",
-    "projectMainPageImg": "../assets/img/projects/project-3.png",
-    "img": "../assets/img/projects/project-3.png",
-    "alt": "project-details-1",
-    "ClientFor": {
-      "title": "Client For",
-      "content": "Ezsip Pvt. Ltd"
-    },
-    "Services": {
-      "title": "Services",
-      "content": "User Interface Design of Agent Portal",
-      "link": {
-        "title": "flexiflow.com",
-        "url": "#"
-      }
-    },
-    "Overview": {
-      "title": "Overview",
-      "content": "The Servex Agent Portal was designed to streamline call center operations by combining multiple tools into a single, intuitive platform. Agents previously struggled with scattered workflows, switching between different dashboards for dialing, follow-ups, and reporting. My role as a UI/UX Designer was to simplify these processes through research, wireframing, and high-fidelity design in Figma. The portal brings together campaign management, a built-in dialer, customer tracking, and performance reports into one interface, helping agents work faster and enabling supervisors to monitor results more effectively.",
-      "listData": [
-            {
-                "title": "Research",
-                "content": "To understand agent needs, I conducted quick interviews with 5 agents and 2 supervisors. Their main pain points included slow navigation, missed follow-ups, and difficulty interpreting reports. I also reviewed competitor dashboards like Zoho and Freshdesk to identify best practices. These insights shaped the portal’s structure, ensuring tasks were completed in 2–3 clicks with simplified reporting."
-            },
-            {
-                "title": "Information Architecture",
-                "content": "I structured the portal into clear modules: Dashboard, Dialer, Customers, Follow-ups, and Reports. This hierarchy helped agents quickly find what they need while giving supervisors a top-level view. User flows were mapped to ensure that common tasks like campaign selection or logging follow-ups required minimal steps, reducing time spent navigating."
-            },
-            {
-                "title": "Wireframing and Prototyping",
-                "content": " I began with low-fidelity wireframes to test layout options and flows. After validating the structure with stakeholders, I created high-fidelity prototypes in Figma using consistent grids, typography, and color schemes. Interactive prototypes demonstrated the portal’s workflows, helping refine usability before moving into final design."
+                "id": 2,
+                "image": "../assets/img/projects/project-details-3.png",
+                "altTag": "project-details-3"
             }
-        ]
+        ],
+        "Challenges": {
+            "title": "Challenges",
+            "content": "Designing the Servex Agent Portal came with multiple challenges, from managing complex workflows to ensuring a smooth experience for both agents and supervisors. Since the platform had to handle large volumes of data while remaining user-friendly, it required careful planning of structure, interactions, and visuals. Here are some key challenges and how they were solved:",
+            "listData": [
+                {
+                    "title": "Responsive Design:",
+                    "content": [
+                        {
+                            "title": "Challenge",
+                            "content": "Agents accessed the portal on different devices, making it difficult to ensure consistency."
+                        },
+                        {
+                            "title": "Solution",
+                            "content": "Applied responsive design with flexible grids and scalable UI components, ensuring the portal worked seamlessly on desktops and tablets."
+                        }
+                    ]
+                },
+                {
+                    "title": "Data Overload:",
+                    "content": [
+                        {
+                            "title": "Challenge",
+                            "content": "The dashboard contained too much information, overwhelming agents."
+                        },
+                        {
+                            "title": "Solution",
+                            "content": "Used progressive disclosure, showing essential KPIs upfront while allowing drill-down for detailed reports."
+                        }
+                    ]
+                },
+                {
+                    "title": "Navigation Efficiency:",
+                    "content": [
+                        {
+                            "title": "Challenge",
+                            "content": "Agents had to switch between multiple dashboards to perform simple tasks."
+                        },
+                        {
+                            "title": "Solution",
+                            "content": "Unified core functions (dialer, follow-ups, reports) into a single streamlined portal, reducing clicks and improving speed."
+                        }
+                    ]
+                },
+                {
+                    "title": "Reporting & Visibility:",
+                    "content": [
+                        {
+                            "title": "Challenge",
+                            "content": "Supervisors lacked clarity in monitoring team performance and daily activities."
+                        },
+                        {
+                            "title": "Solution",
+                            "content": "Designed interactive charts, color-coded KPIs, and consolidated reports for clear performance tracking."
+                        }
+                    ]
+                }
+            ]
+        },
+        "ResultsConclusion": {
+            "title": "Results/Conclusion",
+            "content": "The Servex Agent Portal design successfully improved agent productivity and supervisor visibility. Agents were able to complete tasks faster with reduced navigation, while supervisors benefited from simplified reporting and analytics. The clean, responsive UI led to positive feedback from the team, and onboarding for new agents improved by 30%. With its unified structure and modern visuals, the portal became a reliable and efficient tool for daily call center operations. Ongoing updates and user testing will continue to ensure its effectiveness and scalability."
+        }
     },
-    "innerImages": [
-      {
-        "id": 1,
-        "image": "../assets/img/projects/project-details-2.png",
-        "altTag": "project-details-2"
-      },
-      {
+    {
         "id": 2,
-        "image": "../assets/img/projects/project-details-3.png",
-        "altTag": "project-details-3"
-      }
-    ],
-    "Challenges": {
-      "title": "Challenges",
-      "content": "Designing the Servex Agent Portal came with multiple challenges, from managing complex workflows to ensuring a smooth experience for both agents and supervisors. Since the platform had to handle large volumes of data while remaining user-friendly, it required careful planning of structure, interactions, and visuals. Here are some key challenges and how they were solved:",
-      "listData": [
+        "title": "Vpay. - Online Payment Mobile App",
+        "subtitle": "Mobile App Design | UX Design",
+        "projectMainPageImg": "../../assets/img/projects/project-2.png",
+        "img": "../../assets/img/projects/project-2.png",
+        "alt": "project-details-2",
+        "ClientFor": {
+            "title": "Client For",
+            "content": "Vpay."
+        },
+        "Services": {
+            "title": "Services",
+            "content": "User Interface Design of Payment App",
+            "link": {
+                "title": "Visit Site",
+                "url": "#"
+            }
+        },
+        "Overview": {
+            "title": "Overview",
+            "content": "The Vpay mobile app was designed to simplify digital payments by combining multiple financial tools into one clean, intuitive interface. Users of traditional payment apps often face cluttered screens, confusing navigation, and difficulty tracking their expenses.
+My role as a UI/UX Designer was to create a minimal yet powerful interface with over 50+ designed screens. The focus was on delivering smooth payment flows, easy transfers, and clear financial insights, while maintaining a visually modern and user-friendly design. The app enables users to send money, pay bills, and monitor transactions with ease, making financial management effortless on mobile devices.","listData": [
+                {
+                    "title": "Research",
+                    "content": "To understand user needs, I conducted quick interviews with 8 participants who regularly use apps like PayPal and Google Pay. Their main pain points included complicated onboarding, unclear transaction history, and weak spending analytics.
+I also reviewed leading payment platforms to identify best practices such as biometric login, quick-access actions, and clean dashboards. These findings informed the design approach, ensuring Vpay was both simple for new users and robust for advanced financial tracking."
+                },
+                {
+                    "title": "Information Architecture",
+                    "content": "I structured the app into clear modules: Dashboard, Payments, Transfers, Analytics, Receipts, and Profile. This hierarchy allowed users to quickly access frequent actions like sending money or viewing balances, while keeping secondary features neatly categorized.
+By mapping out user flows, I ensured that essential tasks—such as completing a payment or checking expenses—were completed within 2–3 taps, reducing friction and improving speed."
+                },
+                {
+                    "title": "Wireframing and Prototyping",
+                    "content": " I began with low-fidelity wireframes to test layout options and flows. After validating the structure with stakeholders, I created high-fidelity prototypes in Figma using consistent grids, typography, and color schemes. Interactive prototypes demonstrated the portal’s workflows, helping refine usability before moving into final design."
+                }
+            ]
+        },
+        "innerImages": [
             {
-                "title": "Responsive Design:",
-                "content": [
-                    {
-                        "title": "Challenge",
-                        "content": "Agents accessed the portal on different devices, making it difficult to ensure consistency."
-                    },
-                    {
-                        "title": "Solution",
-                        "content": "Applied responsive design with flexible grids and scalable UI components, ensuring the portal worked seamlessly on desktops and tablets."
-                    }
-                ]
+                "id": 1,
+                "image": "../assets/img/projects/project-details-2.png",
+                "altTag": "project-details-2"
             },
             {
-                "title": "Data Overload:",
-                "content": [
-                    {
-                        "title": "Challenge",
-                        "content": "The dashboard contained too much information, overwhelming agents."
-                    },
-                    {
-                        "title": "Solution",
-                        "content": "Used progressive disclosure, showing essential KPIs upfront while allowing drill-down for detailed reports."
-                    }
-                ]
-            },
-            {
-                "title": "Navigation Efficiency:",
-                "content": [
-                    {
-                        "title": "Challenge",
-                        "content": "Agents had to switch between multiple dashboards to perform simple tasks."
-                    },
-                    {
-                        "title": "Solution",
-                        "content": "Unified core functions (dialer, follow-ups, reports) into a single streamlined portal, reducing clicks and improving speed."
-                    }
-                ]
-            },
-            {
-                "title": "Reporting & Visibility:",
-                "content": [
-                    {
-                        "title": "Challenge",
-                        "content": "Supervisors lacked clarity in monitoring team performance and daily activities."
-                    },
-                    {
-                        "title": "Solution",
-                        "content": "Designed interactive charts, color-coded KPIs, and consolidated reports for clear performance tracking."
-                    }
-                ]
-            }            
-        ]
+                "id": 2,
+                "image": "../assets/img/projects/project-details-3.png",
+                "altTag": "project-details-3"
+            }
+        ],
+        "Challenges": {
+            "title": "Challenges",
+            "content": "Designing the Servex Agent Portal came with multiple challenges, from managing complex workflows to ensuring a smooth experience for both agents and supervisors. Since the platform had to handle large volumes of data while remaining user-friendly, it required careful planning of structure, interactions, and visuals. Here are some key challenges and how they were solved:",
+            "listData": [
+                {
+                    "title": "Responsive Design:",
+                    "content": [
+                        {
+                            "title": "Challenge",
+                            "content": "Agents accessed the portal on different devices, making it difficult to ensure consistency."
+                        },
+                        {
+                            "title": "Solution",
+                            "content": "Applied responsive design with flexible grids and scalable UI components, ensuring the portal worked seamlessly on desktops and tablets."
+                        }
+                    ]
+                },
+                {
+                    "title": "Data Overload:",
+                    "content": [
+                        {
+                            "title": "Challenge",
+                            "content": "The dashboard contained too much information, overwhelming agents."
+                        },
+                        {
+                            "title": "Solution",
+                            "content": "Used progressive disclosure, showing essential KPIs upfront while allowing drill-down for detailed reports."
+                        }
+                    ]
+                },
+                {
+                    "title": "Navigation Efficiency:",
+                    "content": [
+                        {
+                            "title": "Challenge",
+                            "content": "Agents had to switch between multiple dashboards to perform simple tasks."
+                        },
+                        {
+                            "title": "Solution",
+                            "content": "Unified core functions (dialer, follow-ups, reports) into a single streamlined portal, reducing clicks and improving speed."
+                        }
+                    ]
+                },
+                {
+                    "title": "Reporting & Visibility:",
+                    "content": [
+                        {
+                            "title": "Challenge",
+                            "content": "Supervisors lacked clarity in monitoring team performance and daily activities."
+                        },
+                        {
+                            "title": "Solution",
+                            "content": "Designed interactive charts, color-coded KPIs, and consolidated reports for clear performance tracking."
+                        }
+                    ]
+                }
+            ]
+        },
+        "ResultsConclusion": {
+            "title": "Results/Conclusion",
+            "content": "The Servex Agent Portal design successfully improved agent productivity and supervisor visibility. Agents were able to complete tasks faster with reduced navigation, while supervisors benefited from simplified reporting and analytics. The clean, responsive UI led to positive feedback from the team, and onboarding for new agents improved by 30%. With its unified structure and modern visuals, the portal became a reliable and efficient tool for daily call center operations. Ongoing updates and user testing will continue to ensure its effectiveness and scalability."
+        }
     },
-    "ResultsConclusion": {
-        "title": "Results/Conclusion",
-        "content": "The Servex Agent Portal design successfully improved agent productivity and supervisor visibility. Agents were able to complete tasks faster with reduced navigation, while supervisors benefited from simplified reporting and analytics. The clean, responsive UI led to positive feedback from the team, and onboarding for new agents improved by 30%. With its unified structure and modern visuals, the portal became a reliable and efficient tool for daily call center operations. Ongoing updates and user testing will continue to ensure its effectiveness and scalability."
+    {
+        "id": 3,
+        "title": "Gifteview - Gift Review Website",
+        "subtitle": "Web Design | UI/UX Design",
+        "projectMainPageImg": "../assets/img/projects/project-3.png",
+        "img": "../assets/img/projects/project-3.png",
+        "alt": "project-details-1",
+        "ClientFor": {
+            "title": "Client For",
+            "content": "Ezsip Pvt. Ltd"
+        },
+        "Services": {
+            "title": "Services",
+            "content": "User Interface Design of Agent Portal",
+            "link": {
+                "title": "flexiflow.com",
+                "url": "#"
+            }
+        },
+        "Overview": {
+            "title": "Overview",
+            "content": "The Servex Agent Portal was designed to streamline call center operations by combining multiple tools into a single, intuitive platform. Agents previously struggled with scattered workflows, switching between different dashboards for dialing, follow-ups, and reporting. My role as a UI/UX Designer was to simplify these processes through research, wireframing, and high-fidelity design in Figma. The portal brings together campaign management, a built-in dialer, customer tracking, and performance reports into one interface, helping agents work faster and enabling supervisors to monitor results more effectively.",
+            "listData": [
+                {
+                    "title": "Research",
+                    "content": "To understand agent needs, I conducted quick interviews with 5 agents and 2 supervisors. Their main pain points included slow navigation, missed follow-ups, and difficulty interpreting reports. I also reviewed competitor dashboards like Zoho and Freshdesk to identify best practices. These insights shaped the portal’s structure, ensuring tasks were completed in 2–3 clicks with simplified reporting."
+                },
+                {
+                    "title": "Information Architecture",
+                    "content": "I structured the portal into clear modules: Dashboard, Dialer, Customers, Follow-ups, and Reports. This hierarchy helped agents quickly find what they need while giving supervisors a top-level view. User flows were mapped to ensure that common tasks like campaign selection or logging follow-ups required minimal steps, reducing time spent navigating."
+                },
+                {
+                    "title": "Wireframing and Prototyping",
+                    "content": " I began with low-fidelity wireframes to test layout options and flows. After validating the structure with stakeholders, I created high-fidelity prototypes in Figma using consistent grids, typography, and color schemes. Interactive prototypes demonstrated the portal’s workflows, helping refine usability before moving into final design."
+                }
+            ]
+        },
+        "innerImages": [
+            {
+                "id": 1,
+                "image": "../assets/img/projects/project-details-2.png",
+                "altTag": "project-details-2"
+            },
+            {
+                "id": 2,
+                "image": "../assets/img/projects/project-details-3.png",
+                "altTag": "project-details-3"
+            }
+        ],
+        "Challenges": {
+            "title": "Challenges",
+            "content": "Designing the Servex Agent Portal came with multiple challenges, from managing complex workflows to ensuring a smooth experience for both agents and supervisors. Since the platform had to handle large volumes of data while remaining user-friendly, it required careful planning of structure, interactions, and visuals. Here are some key challenges and how they were solved:",
+            "listData": [
+                {
+                    "title": "Responsive Design:",
+                    "content": [
+                        {
+                            "title": "Challenge",
+                            "content": "Agents accessed the portal on different devices, making it difficult to ensure consistency."
+                        },
+                        {
+                            "title": "Solution",
+                            "content": "Applied responsive design with flexible grids and scalable UI components, ensuring the portal worked seamlessly on desktops and tablets."
+                        }
+                    ]
+                },
+                {
+                    "title": "Data Overload:",
+                    "content": [
+                        {
+                            "title": "Challenge",
+                            "content": "The dashboard contained too much information, overwhelming agents."
+                        },
+                        {
+                            "title": "Solution",
+                            "content": "Used progressive disclosure, showing essential KPIs upfront while allowing drill-down for detailed reports."
+                        }
+                    ]
+                },
+                {
+                    "title": "Navigation Efficiency:",
+                    "content": [
+                        {
+                            "title": "Challenge",
+                            "content": "Agents had to switch between multiple dashboards to perform simple tasks."
+                        },
+                        {
+                            "title": "Solution",
+                            "content": "Unified core functions (dialer, follow-ups, reports) into a single streamlined portal, reducing clicks and improving speed."
+                        }
+                    ]
+                },
+                {
+                    "title": "Reporting & Visibility:",
+                    "content": [
+                        {
+                            "title": "Challenge",
+                            "content": "Supervisors lacked clarity in monitoring team performance and daily activities."
+                        },
+                        {
+                            "title": "Solution",
+                            "content": "Designed interactive charts, color-coded KPIs, and consolidated reports for clear performance tracking."
+                        }
+                    ]
+                }
+            ]
+        },
+        "ResultsConclusion": {
+            "title": "Results/Conclusion",
+            "content": "The Servex Agent Portal design successfully improved agent productivity and supervisor visibility. Agents were able to complete tasks faster with reduced navigation, while supervisors benefited from simplified reporting and analytics. The clean, responsive UI led to positive feedback from the team, and onboarding for new agents improved by 30%. With its unified structure and modern visuals, the portal became a reliable and efficient tool for daily call center operations. Ongoing updates and user testing will continue to ensure its effectiveness and scalability."
+        }
     }
-  }
 ]
