@@ -132,7 +132,8 @@
         },
         "Overview": {
             "title": "Overview",
-            "content": "The Vpay mobile app was designed to simplify digital payments by combining multiple financial tools into one clean, intuitive interface. Users of traditional payment apps often face cluttered screens, confusing navigation, and difficulty tracking their expenses. \n\nMy role as a UI/UX Designer was to create a minimal yet powerful interface with over 50+ designed screens. The focus was on delivering smooth payment flows, easy transfers, and clear financial insights, while maintaining a visually modern and user-friendly design. The app enables users to send money, pay bills, and monitor transactions with ease, making financial management effortless on mobile devices.","listData": [
+            "content": "The Vpay mobile app was designed to simplify digital payments by combining multiple financial tools into one clean, intuitive interface. Users of traditional payment apps often face cluttered screens, confusing navigation, and difficulty tracking their expenses. \n\nMy role as a UI/UX Designer was to create a minimal yet powerful interface with over 50+ designed screens. The focus was on delivering smooth payment flows, easy transfers, and clear financial insights, while maintaining a visually modern and user-friendly design. The app enables users to send money, pay bills, and monitor transactions with ease, making financial management effortless on mobile devices.",
+            "listData": [
                 {
                     "title": "Research",
                     "content": "Research: To understand user needs, I conducted quick interviews with 8 participants who regularly use apps like PayPal and Google Pay. Their main pain points included complicated onboarding, unclear transaction history, and weak spending analytics. \n\nI also reviewed leading payment platforms to identify best practices such as biometric login, quick-access actions, and clean dashboards. These findings informed the design approach, ensuring Vpay was both simple for new users and robust for advanced financial tracking."
@@ -164,7 +165,7 @@
             "content": "Designing the Vpay payment app required addressing several critical challenges, from ensuring seamless money transfers to building user confidence in security and financial tracking. The platform needed to combine speed, clarity, and trust while avoiding the clutter often found in payment solutions. This meant carefully defining the information architecture, simplifying key interactions, and creating visuals that felt modern yet reliable. The following highlights the major challenges faced and how they were resolved:",
             "listData": [
                 {
-                    "title": "Responsive Consistency",
+                    "title": "Responsive Consistency:",
                     "content": [
                         {
                             "title": "Challenge",
@@ -177,7 +178,7 @@
                     ]
                 },
                 {
-                    "title": "Trust & Security",
+                    "title": "Trust & Security:",
                     "content": [
                         {
                             "title": "Challenge",
@@ -190,7 +191,7 @@
                     ]
                 },
                 {
-                    "title": "Financial Clarity",
+                    "title": "Financial Clarity:",
                     "content": [
                         {
                             "title": "Challenge",
@@ -202,7 +203,6 @@
                         }
                     ]
                 }
-                
             ]
         },
         "ResultsConclusion": {
@@ -219,31 +219,53 @@
         "alt": "project-details-3",
         "ClientFor": {
             "title": "Client For",
-            "content": "Ezsip Pvt. Ltd"
+            "content": "Gifteview"
         },
         "Services": {
             "title": "Services",
-            "content": "User Interface Design of Agent Portal",
+            "content": "User Interface Design of Gift Review Website",
             "link": {
-                "title": "flexiflow.com",
+                "title": "Visit Site",
                 "url": "#"
             }
         },
         "Overview": {
             "title": "Overview",
-            "content": "The Servex Agent Portal was designed to streamline call center operations by combining multiple tools into a single, intuitive platform. Agents previously struggled with scattered workflows, switching between different dashboards for dialing, follow-ups, and reporting. My role as a UI/UX Designer was to simplify these processes through research, wireframing, and high-fidelity design in Figma. The portal brings together campaign management, a built-in dialer, customer tracking, and performance reports into one interface, helping agents work faster and enabling supervisors to monitor results more effectively.",
+            "content": "The Gifteview platform was designed to provide users with an easy way to browse, compare, and review different gift items online. Traditional e-commerce platforms often lack dedicated review-focused experiences, making it difficult for users to evaluate products beyond simple star ratings. My role as a UI/UX Designer was to build a review-centric website with 16+ unique pages, focusing on transparency, usability, and responsive design.\n\nThe platform brings together curated gift listings, user-generated reviews, and category-based navigation into one consistent experience. The goal was to help users make smarter purchasing decisions while providing sellers a clear space to showcase their products with credibility.",
             "listData": [
                 {
                     "title": "Research",
-                    "content": "To understand agent needs, I conducted quick interviews with 5 agents and 2 supervisors. Their main pain points included slow navigation, missed follow-ups, and difficulty interpreting reports. I also reviewed competitor dashboards like Zoho and Freshdesk to identify best practices. These insights shaped the portal’s structure, ensuring tasks were completed in 2–3 clicks with simplified reporting."
+                    "content": "Research: To understand user expectations, I conducted short interviews with 6 regular online shoppers and reviewed platforms like Amazon and Etsy to identify usability gaps. Users expressed challenges with scattered reviews, unverified content, and poor filtering options, which made decision-making difficult.\n\nCompetitor analysis highlighted the importance of verified reviews, responsive layouts, and clear product categorization. These insights guided the foundation of Giftereview, ensuring that the website emphasized credibility and ease of navigation while remaining visually engaging."
                 },
                 {
                     "title": "Information Architecture",
-                    "content": "I structured the portal into clear modules: Dashboard, Dialer, Customers, Follow-ups, and Reports. This hierarchy helped agents quickly find what they need while giving supervisors a top-level view. User flows were mapped to ensure that common tasks like campaign selection or logging follow-ups required minimal steps, reducing time spent navigating."
+                    "content": "The website was structured into core modules to make navigation simple and intuitive for users.",
+                    "listData": [
+                        {
+                            "title": "Home Page",
+                            "description": "Highlights trending gifts, top reviews, and featured categories."
+                        },
+                        {
+                            "title": "Category Pages",
+                            "description": "Organizes gifts by type, occasion, or price range."
+                        },
+                        {
+                            "title": "Product Detail Pages",
+                            "description": "Combines product details, reviews, ratings, and recommendations."
+                        },
+                        {
+                            "title": "Review Submission",
+                            "description": "Simplifies the process for users to write and share authentic reviews."
+                        },
+                        {
+                            "title": "User Dashboard",
+                            "description": "Tracks contributions, favorites, and activity."
+                        }
+                    ]
                 },
                 {
                     "title": "Wireframing and Prototyping",
-                    "content": " I began with low-fidelity wireframes to test layout options and flows. After validating the structure with stakeholders, I created high-fidelity prototypes in Figma using consistent grids, typography, and color schemes. Interactive prototypes demonstrated the portal’s workflows, helping refine usability before moving into final design."
+                    "content": "Wireframing and Prototyping: I began with low-fidelity wireframes to explore different layouts for category browsing and review flows. After validating with stakeholders, I created high-fidelity prototypes in Figma using consistent grids, typography, and responsive layouts.\n\nInteractive prototypes showcased user journeys such as submitting reviews, filtering products, and navigating across devices. Responsive testing ensured the design adapted seamlessly to desktop, tablet, and mobile experiences."
                 }
             ]
         },
@@ -261,57 +283,70 @@
         ],
         "Challenges": {
             "title": "Challenges",
-            "content": "Designing the Servex Agent Portal came with multiple challenges, from managing complex workflows to ensuring a smooth experience for both agents and supervisors. Since the platform had to handle large volumes of data while remaining user-friendly, it required careful planning of structure, interactions, and visuals. Here are some key challenges and how they were solved:",
+            "content": "Designing the Giftereview website involved multiple challenges, from ensuring transparent and credible reviews to keeping the interface clean and user-friendly. The platform had to manage large volumes of product and review data without overwhelming users, while also providing smooth navigation and responsive layouts. Building trust, simplifying browsing, and encouraging user engagement through features like verified reviews and subtle gamification were central to shaping the final design.",
             "listData": [
+                {
+                    "title": "Review Transparency:",
+                    "content": [
+                        {
+                            "title": "Challenge",
+                            "content": "Users often hesitate to trust online reviews due to spam or lack of verification."
+                        },
+                        {
+                            "title": "Solution",
+                            "content": "Designed a system that highlights verified reviews and introduces credibility markers for authentic contributions."
+                        }
+                    ]
+                },
+                {
+                    "title": "Navigation Clarity:",
+                    "content": [
+                        {
+                            "title": "Challenge",
+                            "content": "Browsing across multiple categories risked overwhelming users with options."
+                        },
+                        {
+                            "title": "Solution",
+                            "content": "Introduced clean filtering, search, and categorization tools to help users find products quickly."
+                        }
+                    ]
+                },
                 {
                     "title": "Responsive Design:",
                     "content": [
                         {
                             "title": "Challenge",
-                            "content": "Agents accessed the portal on different devices, making it difficult to ensure consistency."
+                            "content": "The platform needed to provide a consistent experience across various devices."
                         },
                         {
                             "title": "Solution",
-                            "content": "Applied responsive design with flexible grids and scalable UI components, ensuring the portal worked seamlessly on desktops and tablets."
+                            "content": "Applied responsive design principles with scalable components to ensure smooth performance on desktop and mobile."
                         }
                     ]
                 },
                 {
-                    "title": "Data Overload:",
+                    "title": "Content Overload:",
                     "content": [
                         {
                             "title": "Challenge",
-                            "content": "The dashboard contained too much information, overwhelming agents."
+                            "content": "With multiple gift items and reviews displayed on each page, there was a risk of overwhelming users with too much information at once."
                         },
                         {
                             "title": "Solution",
-                            "content": "Used progressive disclosure, showing essential KPIs upfront while allowing drill-down for detailed reports."
+                            "content": "Implemented progressive disclosure by prioritizing essential product details and collapsing secondary information into expandable sections, keeping the interface clean and scannable."
                         }
                     ]
                 },
                 {
-                    "title": "Navigation Efficiency:",
+                    "title": "User Engagement:",
                     "content": [
                         {
                             "title": "Challenge",
-                            "content": "Agents had to switch between multiple dashboards to perform simple tasks."
+                            "content": "Encouraging users to contribute reviews consistently was difficult, as many preferred browsing over writing feedback."
                         },
                         {
                             "title": "Solution",
-                            "content": "Unified core functions (dialer, follow-ups, reports) into a single streamlined portal, reducing clicks and improving speed."
-                        }
-                    ]
-                },
-                {
-                    "title": "Reporting & Visibility:",
-                    "content": [
-                        {
-                            "title": "Challenge",
-                            "content": "Supervisors lacked clarity in monitoring team performance and daily activities."
-                        },
-                        {
-                            "title": "Solution",
-                            "content": "Designed interactive charts, color-coded KPIs, and consolidated reports for clear performance tracking."
+                            "content": "Introduced subtle gamification elements like contributor badges, review counts, and personalized prompts to motivate participation and increase user-generated content."
                         }
                     ]
                 }
@@ -319,7 +354,7 @@
         },
         "ResultsConclusion": {
             "title": "Results/Conclusion",
-            "content": "The Servex Agent Portal design successfully improved agent productivity and supervisor visibility. Agents were able to complete tasks faster with reduced navigation, while supervisors benefited from simplified reporting and analytics. The clean, responsive UI led to positive feedback from the team, and onboarding for new agents improved by 30%. With its unified structure and modern visuals, the portal became a reliable and efficient tool for daily call center operations. Ongoing updates and user testing will continue to ensure its effectiveness and scalability."
+            "content": "The Giftereview website successfully delivered a user-friendly, transparent, and responsive experience for exploring and evaluating gift items. Users found it easier to compare products, filter categories, and rely on credible reviews when making purchase decisions.\n\nWith 16+ pages designed, the platform positioned itself as a reliable alternative to traditional shopping sites by prioritizing review transparency and usability. The design framework also allows for future scalability, such as adding personalized recommendations and community-driven features."
         }
     }
 ]
