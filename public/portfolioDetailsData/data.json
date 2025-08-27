@@ -132,7 +132,7 @@
         },
         "Overview": {
             "title": "Overview",
-            "content": "The Vpay mobile app was designed to simplify digital payments by combining multiple financial tools into one clean, intuitive interface. Users of traditional payment apps often face cluttered screens, confusing navigation, and difficulty tracking their expenses.\n\nMy role as a UI/UX Designer was to create a minimal yet powerful interface with over 50+ designed screens. The focus was on delivering smooth payment flows, easy transfers, and clear financial insights, while maintaining a visually modern and user-friendly design. The app enables users to send money, pay bills, and monitor transactions with ease, making financial management effortless on mobile devices.","listData": [
+            "content": "The Vpay mobile app was designed to simplify digital payments by combining multiple financial tools into one clean, intuitive interface. Users of traditional payment apps often face cluttered screens, confusing navigation, and difficulty tracking their expenses. \n\nMy role as a UI/UX Designer was to create a minimal yet powerful interface with over 50+ designed screens. The focus was on delivering smooth payment flows, easy transfers, and clear financial insights, while maintaining a visually modern and user-friendly design. The app enables users to send money, pay bills, and monitor transactions with ease, making financial management effortless on mobile devices.","listData": [
                 {
                     "title": "Research",
                     "content": "Research: To understand user needs, I conducted quick interviews with 8 participants who regularly use apps like PayPal and Google Pay. Their main pain points included complicated onboarding, unclear transaction history, and weak spending analytics. \n\nI also reviewed leading payment platforms to identify best practices such as biometric login, quick-access actions, and clean dashboards. These findings informed the design approach, ensuring Vpay was both simple for new users and robust for advanced financial tracking."
@@ -190,7 +190,7 @@
                     ]
                 },
                 {
-                    "title": "NFinancial Clarity",
+                    "title": "Financial Clarity",
                     "content": [
                         {
                             "title": "Challenge",
@@ -216,7 +216,7 @@
         "subtitle": "Web Design | UI/UX Design",
         "projectMainPageImg": "../assets/img/projects/project-3.png",
         "img": "../assets/img/projects/project-3.png",
-        "alt": "project-details-1",
+        "alt": "project-details-3",
         "ClientFor": {
             "title": "Client For",
             "content": "Ezsip Pvt. Ltd"
