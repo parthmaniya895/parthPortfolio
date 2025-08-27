@@ -146,7 +146,8 @@ By mapping out user flows, I ensured that essential tasks—such as completing a
                 },
                 {
                     "title": "Wireframing and Prototyping",
-                    "content": " I began with low-fidelity wireframes to test layout options and flows. After validating the structure with stakeholders, I created high-fidelity prototypes in Figma using consistent grids, typography, and color schemes. Interactive prototypes demonstrated the portal’s workflows, helping refine usability before moving into final design."
+                    "content": "I began with low-fidelity wireframes to test different layouts and flows with users. After validating the structure, I created high-fidelity prototypes in Figma using consistent grids, typography, and color schemes.
+Interactive prototypes showcased transaction confirmation, biometric login, and expense charts, helping refine the app’s usability before moving into final design."
                 }
             ]
         },
@@ -164,65 +165,55 @@ By mapping out user flows, I ensured that essential tasks—such as completing a
         ],
         "Challenges": {
             "title": "Challenges",
-            "content": "Designing the Servex Agent Portal came with multiple challenges, from managing complex workflows to ensuring a smooth experience for both agents and supervisors. Since the platform had to handle large volumes of data while remaining user-friendly, it required careful planning of structure, interactions, and visuals. Here are some key challenges and how they were solved:",
+            "content": "Designing the Vpay payment app required addressing several critical challenges, from ensuring seamless money transfers to building user confidence in security and financial tracking. The platform needed to combine speed, clarity, and trust while avoiding the clutter often found in payment solutions. This meant carefully defining the information architecture, simplifying key interactions, and creating visuals that felt modern yet reliable. The following highlights the major challenges faced and how they were resolved:",
             "listData": [
                 {
-                    "title": "Responsive Design:",
+                    "title": "Responsive Consistency",
                     "content": [
                         {
                             "title": "Challenge",
-                            "content": "Agents accessed the portal on different devices, making it difficult to ensure consistency."
+                            "content": "Designing a payment app that adapts to multiple mobile screen sizes."
                         },
                         {
                             "title": "Solution",
-                            "content": "Applied responsive design with flexible grids and scalable UI components, ensuring the portal worked seamlessly on desktops and tablets."
+                            "content": "Applied scalable UI components and auto-layout in Figma to ensure smooth consistency across devices."
                         }
                     ]
                 },
                 {
-                    "title": "Data Overload:",
+                    "title": "Trust & Security",
                     "content": [
                         {
                             "title": "Challenge",
-                            "content": "The dashboard contained too much information, overwhelming agents."
+                            "content": "Users worried about storing card details and making secure payments."
                         },
                         {
                             "title": "Solution",
-                            "content": "Used progressive disclosure, showing essential KPIs upfront while allowing drill-down for detailed reports."
+                            "content": "Integrated biometric login, encryption indicators, and trust signals such as secure icons and confirmation screens."
                         }
                     ]
                 },
                 {
-                    "title": "Navigation Efficiency:",
+                    "title": "NFinancial Clarity",
                     "content": [
                         {
                             "title": "Challenge",
-                            "content": "Agents had to switch between multiple dashboards to perform simple tasks."
+                            "content": "Users struggled to track and understand their spending habits in competitor apps."
                         },
                         {
                             "title": "Solution",
-                            "content": "Unified core functions (dialer, follow-ups, reports) into a single streamlined portal, reducing clicks and improving speed."
+                            "content": "Designed interactive graphs, filters, and categorized expenses to improve financial transparency."
                         }
                     ]
                 },
-                {
-                    "title": "Reporting & Visibility:",
-                    "content": [
-                        {
-                            "title": "Challenge",
-                            "content": "Supervisors lacked clarity in monitoring team performance and daily activities."
-                        },
-                        {
-                            "title": "Solution",
-                            "content": "Designed interactive charts, color-coded KPIs, and consolidated reports for clear performance tracking."
-                        }
-                    ]
-                }
+                
             ]
         },
         "ResultsConclusion": {
             "title": "Results/Conclusion",
-            "content": "The Servex Agent Portal design successfully improved agent productivity and supervisor visibility. Agents were able to complete tasks faster with reduced navigation, while supervisors benefited from simplified reporting and analytics. The clean, responsive UI led to positive feedback from the team, and onboarding for new agents improved by 30%. With its unified structure and modern visuals, the portal became a reliable and efficient tool for daily call center operations. Ongoing updates and user testing will continue to ensure its effectiveness and scalability."
+            "content": "The Vpay mobile app design successfully delivered a clean, minimal, and user-friendly experience. Users reported smoother onboarding and faster payment flows, completing transactions up to 40% quicker compared to other apps.
+The addition of clear spending analytics and visual graphs made financial tracking effortless and engaging, while trust-focused design elements increased user confidence in data security.
+With over 50+ screens designed, the app is scalable for future features like rewards, investments, and global transfers. The final outcome positioned Vpay as a modern, reliable, and intuitive solution for digital payments."
         }
     },
     {
