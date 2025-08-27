@@ -1,0 +1,21 @@
+{
+    "name": "Parth Maniya",
+    "bio": "A Passionate <b>Product Designer</b> 🖥️ &amp; <b>User Experience Designer</b> having <b>2 + years </b> of Experiences over 24+ Clients Worldwide.",
+    "counterItems": [
+        { 
+            "id": 1, 
+            "title": "Year of Experience", 
+            "value": 2 
+        },
+        { 
+            "id": 2, 
+            "title": "Project Completed", 
+            "value": 32 
+        },
+        { 
+            "id": 3, 
+            "title": "Happy Client", 
+            "value": 24 
+        }
+  ]
+}

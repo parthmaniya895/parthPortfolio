@@ -33,10 +33,6 @@ const Testimonial = () => {
       try {
         const res = await axios.get("/testimonialData/data.json");
         setData(res.data);
-
-        // find index of the current item by id
-        const index = res.data.findIndex((item) => item.id.toString() === id);
-        setCurrentIndex(index);
       } catch (err) {
         console.error("Error fetching portfolio data:", err);
       }
@@ -47,12 +43,12 @@ const Testimonial = () => {
 
   return (
     <div className="client-feedback">
-      <h2 className="main-common-title">Trusted By 24+ Clients</h2>
+      <h2 className="main-common-title">{data?.title}</h2>
       <Slider
         {...sliderProps.testimonialSlider}
         className="row client-feedback-slider"
       >
-        {data?.map((testimonial, index) => {
+        {data?.testimonialData?.map((testimonial, index) => {
           return (
             <div key={index} className="col-lg-6">
               <div className="feedback-item">
