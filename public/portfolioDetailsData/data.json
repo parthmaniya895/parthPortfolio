@@ -132,18 +132,18 @@
         },
         "Overview": {
             "title": "Overview",
-            "content": "xcxcc","listData": [
+            "content": "The Vpay mobile app was designed to simplify digital payments by combining multiple financial tools into one clean, intuitive interface. Users of traditional payment apps often face cluttered screens, confusing navigation, and difficulty tracking the","listData": [
                 {
                     "title": "Research",
-                    "content": "dfdf"
+                    "content": "To understand user needs, I conducted quick interviews with 8 participants who regularly use apps like PayPal and Google Pay. Their main pain points included complicated onboarding, unclear transaction history, and weak spending analytics. I also rev"
                 },
                 {
                     "title": "Information Architecture",
-                    "content": "dfdf"
+                    "content": "I structured the app into clear modules: Dashboard, Payments, Transfers, Analytics, Receipts, and Profile. This hierarchy allowed users to quickly access frequent actions like sending money or viewing balances, while keeping"
                 },
                 {
                     "title": "Wireframing and Prototyping",
-                    "content": "dfdfdf"
+                    "content": "I began with low-fidelity wireframes to test different layouts and flows with users. After validating the structure, I created high-fidelity prototypes in Figma using consistent grids, typography, and color schemes. Inter"
                 }
             ]
         },
