@@ -132,10 +132,10 @@
         },
         "Overview": {
             "title": "Overview",
-            "content": "The Vpay mobile app was designed to simplify digital payments by combining multiple financial tools into one clean, intuitive interface. Users of traditional payment apps often face cluttered screens, confusing navigation, and difficulty tracking their expenses.\nMy role as a UI/UX Designer was to create a minimal yet powerful interface with over 50+ designed screens. The focus was on delivering smooth payment flows, easy transfers, and clear financial insights, while maintaining a visually modern and user-friendly design. The app enables users to send money, pay bills, and monitor transactions with ease, making financial management effortless on mobile devices.","listData": [
+            "content": "The Vpay mobile app was designed to simplify digital payments by combining multiple financial tools into one clean, intuitive interface. Users of traditional payment apps often face cluttered screens, confusing navigation, and difficulty tracking their expenses.\n\nMy role as a UI/UX Designer was to create a minimal yet powerful interface with over 50+ designed screens. The focus was on delivering smooth payment flows, easy transfers, and clear financial insights, while maintaining a visually modern and user-friendly design. The app enables users to send money, pay bills, and monitor transactions with ease, making financial management effortless on mobile devices.","listData": [
                 {
                     "title": "Research",
-                    "content": "Research: To understand user needs, I conducted quick interviews with 8 participants who regularly use apps like PayPal and Google Pay. Their main pain points included complicated onboarding, unclear transaction history, and weak spending analytics. \nI also reviewed leading payment platforms to identify best practices such as biometric login, quick-access actions, and clean dashboards. These findings informed the design approach, ensuring Vpay was both simple for new users and robust for advanced financial tracking."
+                    "content": "Research: To understand user needs, I conducted quick interviews with 8 participants who regularly use apps like PayPal and Google Pay. Their main pain points included complicated onboarding, unclear transaction history, and weak spending analytics. \n\nI also reviewed leading payment platforms to identify best practices such as biometric login, quick-access actions, and clean dashboards. These findings informed the design approach, ensuring Vpay was both simple for new users and robust for advanced financial tracking."
                 },
                 {
                     "title": "Information Architecture",
@@ -143,7 +143,7 @@
                 },
                 {
                     "title": "Wireframing and Prototyping",
-                    "content": "Wireframing and Prototyping: I began with low-fidelity wireframes to test different layouts and flows with users. After validating the structure, I created high-fidelity prototypes in Figma using consistent grids, typography, and color schemes. \nInteractive prototypes showcased transaction confirmation, biometric login, and expense charts, helping refine the app’s usability before moving into final design."
+                    "content": "Wireframing and Prototyping: I began with low-fidelity wireframes to test different layouts and flows with users. After validating the structure, I created high-fidelity prototypes in Figma using consistent grids, typography, and color schemes. \n\nInteractive prototypes showcased transaction confirmation, biometric login, and expense charts, helping refine the app’s usability before moving into final design."
                 }
             ]
         },
@@ -207,7 +207,7 @@
         },
         "ResultsConclusion": {
             "title": "Results/Conclusion",
-            "content": "The Vpay mobile app design successfully delivered a clean, minimal, and user-friendly experience. Users reported smoother onboarding and faster payment flows, completing transactions up to 40% quicker compared to other apps.\nThe addition of clear spending analytics and visual graphs made financial tracking effortless and engaging, while trust-focused design elements increased user confidence in data security.\nWith over 50+ screens designed, the app is scalable for future features like rewards, investments, and global transfers. The final outcome positioned Vpay as a modern, reliable, and intuitive solution for digital payments."
+            "content": "The Vpay mobile app design successfully delivered a clean, minimal, and user-friendly experience. Users reported smoother onboarding and faster payment flows, completing transactions up to 40% quicker compared to other apps.\n\nThe addition of clear spending analytics and visual graphs made financial tracking effortless and engaging, while trust-focused design elements increased user confidence in data security.\n\nWith over 50+ screens designed, the app is scalable for future features like rewards, investments, and global transfers. The final outcome positioned Vpay as a modern, reliable, and intuitive solution for digital payments."
         }
     },
     {
