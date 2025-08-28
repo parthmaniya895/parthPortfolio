@@ -214,7 +214,7 @@
         "id": 3,
         "title": "Gifteview - Gift Review Website",
         "subtitle": "Web Design | UI/UX Design",
-        "projectMainPageImg": "../assets/img/projects/project-3.svg",
+        "projectMainPageImg": "../assets/img/projects/project-3.png",
         "img": "../assets/img/projects/project-3.png",
         "alt": "project-details-3",
         "ClientFor": {
@@ -239,29 +239,7 @@
                 },
                 {
                     "title": "Information Architecture",
-                    "content": "The website was structured into core modules to make navigation simple and intuitive for users.",
-                    "listData": [
-                        {
-                            "title": "Home Page",
-                            "description": "Highlights trending gifts, top reviews, and featured categories."
-                        },
-                        {
-                            "title": "Category Pages",
-                            "description": "Organizes gifts by type, occasion, or price range."
-                        },
-                        {
-                            "title": "Product Detail Pages",
-                            "description": "Combines product details, reviews, ratings, and recommendations."
-                        },
-                        {
-                            "title": "Review Submission",
-                            "description": "Simplifies the process for users to write and share authentic reviews."
-                        },
-                        {
-                            "title": "User Dashboard",
-                            "description": "Tracks contributions, favorites, and activity."
-                        }
-                    ]
+                    "content": "The website was structured into core modules to make navigation simple and intuitive for users."
                 },
                 {
                     "title": "Wireframing and Prototyping",
