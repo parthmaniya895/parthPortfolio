@@ -58,7 +58,7 @@ const Experience = () => {
     { id: 7, icon: "assets/img/icons/Adobe.svg", name: "Adobe" },
     { id: 8, icon: "assets/img/icons/Adobecc.svg", name: "Adobe CC" },
     { id: 9, icon: "assets/img/icons/Sketch.svg", name: "Sketch" },
-    { id: 10, icon: "assets/img/icons/Jira.svg", name: "Jira" },
+    { id: 10, icon: "assets/img/icons/jira.svg", name: "Jira" },
     { id: 11, icon: "assets/img/icons/Framer.svg", name: "Framer" },
     { id: 12, icon: "assets/img/icons/Canva.svg", name: "Canva" },
     { id: 13, icon: "assets/img/icons/Balsamiq.svg", name: "Balsamiq" },
