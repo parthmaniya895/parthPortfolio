@@ -61,7 +61,7 @@ const Testimonial = () => {
                     <i className="fas fa-star" />
                   </div>
                   <div className="website">
-                    <a href={testimonial?.link}>
+                    <a target="_blank" href={testimonial?.link}>
                       {testimonial?.website}
                       <svg
                         className="arrow-up"
