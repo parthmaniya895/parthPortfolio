@@ -6,7 +6,7 @@
       "title": "Bachelor of Engineering",
       "subTitle": "GTU - Public University",
       "jobTitle": "Information Technology",
-      "icon": "/assets/img/icons/cib-upwork.svg",
+      "icon": "/assets/img/icons/GTU.svg",
       "date": "2019-2023"
     },
     {
@@ -14,72 +14,25 @@
       "title": "Higher secondary edu.",
       "subTitle": "GSHSEB",
       "jobTitle": "Class 11th - 12th",
-      "icon": "/assets/img/icons/techEther.svg",
+      "icon": "/assets/img/icons/GSHSEB.svg",
       "date": "2017-2019"
     },
     {
       "id": 3,
-      "title": "Visual Designer",
-      "subTitle": "Vancoretech Pvt. Ltd",
-      "jobTitle": "Part-time - Remote",
-      "icon": "/assets/img/icons/vancoretech.svg",
-      "date": "2024-2025"
+      "title": "Secondary education",
+      "subTitle": "GSHSEB",
+      "jobTitle": "Class 9th - 10th",
+      "icon": "/assets/img/icons/GSHSEB.svg",
+      "date": "2015-2017"
     },
     {
       "id": 4,
-      "title": "UX Designer",
-      "subTitle": "Dizayn.io",
-      "jobTitle": "Freelancing - Remote",
-      "icon": "/assets/img/icons/Dizayn.svg",
-      "date": "2024-2025"
-    },
-    {
-      "id": 5,
-      "title": "Sr. UI/UX Designer",
-      "subTitle": "Tecxar Consultants Pvt. Ltd",
-      "jobTitle": "Full-time - On-site",
-      "icon": "/assets/img/icons/tecxarConsultants.svg",
-      "date": "2023-2024"
-    },
-    {
-      "id": 6,
-      "title": "Product Designer",
-      "subTitle": "Konzortia Hub",
-      "jobTitle": "FrePart-time - On-site",
-      "icon": "/assets/img/icons/konzortiaHub.svg",
-      "date": "2023-2024"
-    },
-    {
-      "id": 7,
-      "title": "Sr. UI/UX Designer",
-      "subTitle": "Ezsip Telecommunications",
-      "jobTitle": "Part-time - On-site",
-      "icon": "/assets/img/icons/ezsipTelecommunications.svg",
-      "date": "2023-2024"
-    },
-    {
-      "id": 8,
-      "title": "Sr. Product Designer",
-      "subTitle": "Cleardu Fintech Pvt. Ltd",
-      "jobTitle": "Part-time - On-site",
-      "icon": "/assets/img/icons/clearduFintech.svg",
-      "date": "2023-2024"
-    },
-    {
-      "id": 9,
-      "title": "Web developer",
-      "subTitle": "IBM SkillsBuild",
-      "jobTitle": "Internship - Remote",
-      "icon": "/assets/img/icons/IBM.svg",
-      "date": "2023-2024"
-    },
-    {
-      "id": 10,
-      "title": "Jr. Visual Designer",
-      "subTitle": "Brainybeam Pvt. Ltd",
-      "jobTitle": "Internship - On-site",
-      "icon": "/assets/img/icons/brainybeam.svg",
-      "date": "2022-2023"
+      "title": "Primary education",
+      "subTitle": "GSEB",
+      "jobTitle": "Class 1st - 8th",
+      "icon": "/assets/img/icons/GSHSEB.svg",
+      "date": "2007-2015"
     }
+    
   ]
 }
