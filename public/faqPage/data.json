@@ -4,22 +4,27 @@
         { 
             "id": 1, 
             "Question": "What does a product designer need to know?", 
-            "Answer": "I'm here to help if you're searching for a product designer to bring your idea to life or a design partner to help take your business to the next level." 
+            "Answer": "A product designer needs a blend of skills including UI/UX design, user research, prototyping, visual design, and collaboration with developers. They must understand user needs while also aligning design with business goals." 
         },
         { 
             "id": 2, 
-            "Question": "What does a product designer need to know?", 
-            "Answer": "I'm here to help if you're searching for a product designer to bring your idea to life or a design partner to help take your business to the next level." 
+            "Question": "What’s the difference between a Product Designer and a UX Designer?", 
+            "Answer": "A UX Designer primarily focuses on usability, user flows, and research, while a Product Designer oversees the entire process—strategy, experience, visual design, and delivery. Product design is more holistic, combining UX and UI with business context." 
         },
         { 
             "id": 3, 
-            "Question": "What does a product designer need to know?", 
-            "Answer": "I'm here to help if you're searching for a product designer to bring your idea to life or a design partner to help take your business to the next level." 
+            "Question": "Why is usability testing important in product design?", 
+            "Answer": "Usability testing helps identify issues before development, saving time and costs. It ensures designs are user-friendly, accessible, and aligned with real user needs, improving adoption and satisfaction." 
         },
         { 
             "id": 4, 
-            "Question": "What does a product designer need to know?", 
-            "Answer": "I'm here to help if you're searching for a product designer to bring your idea to life or a design partner to help take your business to the next level." 
+            "Question": "How does HCI (Human-Computer Interaction) influence product design?", 
+            "Answer": "HCI provides the research foundation for product design, focusing on how people interact with technology. Applying HCI principles ensures products are human-centered, accessible, and inclusive." 
+        },
+        { 
+            "id": 5, 
+            "Question": "What tools do you use as a product and UX designer?", 
+            "Answer": "I use Figma, Miro, Notion, Procreate, and Adobe CC for design and collaboration, and tools like Framer for prototyping. For research and usability testing, I rely on surveys, interviews, and analytics platforms." 
         }
     ]
 }

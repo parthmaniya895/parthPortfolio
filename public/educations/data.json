@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "title": "Higher secondary edu.",
+      "title": "Higher Secondary edu.",
       "subTitle": "GSHSEB",
       "jobTitle": "Class 11th - 12th",
       "icon": "/assets/img/icons/GSHSEB.svg",
@@ -19,7 +19,7 @@
     },
     {
       "id": 3,
-      "title": "Secondary education",
+      "title": "Secondary Education",
       "subTitle": "GSHSEB",
       "jobTitle": "Class 9th - 10th",
       "icon": "/assets/img/icons/GSHSEB.svg",
@@ -27,7 +27,7 @@
     },
     {
       "id": 4,
-      "title": "Primary education",
+      "title": "Primary Education",
       "subTitle": "GSEB",
       "jobTitle": "Class 1st - 8th",
       "icon": "/assets/img/icons/GSHSEB.svg",

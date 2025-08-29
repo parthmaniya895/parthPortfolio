@@ -51,9 +51,8 @@ const page = () => {
                   Check Out My Latest <span>Projects</span>
                 </h1>
                 <p>
-                  I'm here to help if you're searching for a product designer to
-                  bring your idea to life or a design partner to help take your
-                  business to the next level.
+                  I bridge research and practice by applying human-centered experiments and usability 
+                  testing to design accessible, user-friendly interfaces guided by HCI principles.
                 </p>
               </div>
             </div>

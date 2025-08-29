@@ -9,7 +9,7 @@ const Projects = () => {
     },
     {
       id: 2,
-      category: "Product Design",
+      category: "Mobile App",
       img: "/assets/img/projects/dashboard-2.png",
     },
   ];

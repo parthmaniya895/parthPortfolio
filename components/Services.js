@@ -4,7 +4,7 @@ import ExpertArea from "./ExpertArea";
 
 const Services = () => {
   const serviceItems = [
-    { id: 1, icon: "/assets/img/icons/ui-ux.svg", title: "UI UX Design" },
+    { id: 1, icon: "/assets/img/icons/ui-ux.svg", title: "UI/UX Design" },
     { id: 2, icon: "/assets/img/icons/app.svg", title: "Mobile App" },
     {
       id: 3,

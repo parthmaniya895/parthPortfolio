@@ -3,21 +3,87 @@
     "testimonialData": [
         {
             "website": "LinkedIn",
-            "link": "",
+            "link": "https://www.linkedin.com/in/eshani-sankhala-7348942b7/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
             "details": "“Parth worked with me at VancoreTech and truly transformed our design presence. He created a strong brand identity and intuitive visuals that made our product more engaging and professional.”",
             "designation": "<span>Eshani Sankhla</span> - Founder of Vancoretech"
         },
+         {
+            "website": "LinkedIn",
+            "link": "https://www.linkedin.com/in/prashantsharma30/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+            "details": "“Parth is a creative and talented designer who delivers solutions balancing user needs with business goals. His collaborative approach and positive attitude make teamwork smooth and effective.”",
+            "designation": "<span>Prashant Sharma</span> - Founder & CEO, Tecxar"
+        },
         {
             "website": "LinkedIn",
-            "link": "",
+            "link": "https://www.linkedin.com/in/riddhipatel2002/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
             "details": "“I had the chance to work with Parth on multiple projects, and his design sense always stood out. He brings creativity, attention to detail, and a collaborative spirit that makes teamwork seamless.”",
             "designation": "<span>Riddhi Patel</span> - Product Designer"
         },
         {
             "website": "LinkedIn",
-            "link": "",
-            "details": "Parth is a skilled designer with strong communication skills. He understands tasks well and always completes his work on time.",
+            "link": "https://www.linkedin.com/in/sachinrathor297/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+            "details": "“Parth’s design sense stood out in every project we worked on together. His creativity, dedication to detail, and team-first attitude make him an exceptional designer and a consistent collaborator.”",
             "designation": "<span>Sachin Rathor</span> - Founder of dizayn.io"
+        },
+        {
+            "website": "LinkedIn",
+            "link": "https://www.linkedin.com/in/sonia15/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+            "details": "“Working with Parth on product design was a great experience. He brings creative ideas, understands requirements well, and ensures outcomes align with user needs and business goals.”",
+            "designation": "<span>Sonia Sharma</span> - Co-Founder of Tecxar"
+        },
+        {
+            "website": "LinkedIn",
+            "link": "https://www.linkedin.com/in/gillamarpreetsingh/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+            "details": "“Parth consistently brings fresh ideas to the table, transforming complex requirements into intuitive and elegant designs. His dependable nature and collaborative spirit make him an invaluable partner on any project.”",
+            "designation": "<span>Amar Preet Gill</span> - Sr. Business Analyst"
+        },
+        {
+            "website": "LinkedIn",
+            "link": "https://www.linkedin.com/in/digvijaychampawat/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+            "details": "“I worked with Parth on web design projects, and his creativity combined with precision always impressed me. He understands user needs, brings fresh ideas, and ensures smooth collaboration from start to finish.”",
+            "designation": "<span>Digvijay Singh</span> - Founder of Tech Ether"
+        },
+        {
+            "website": "LinkedIn",
+            "link": "https://www.linkedin.com/in/nensi-boghani-a01443217/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+            "details": "“I have worked with Parth on multiple projects, and his creativity and problem-solving always impressed me. He brings strong design skills, attention to detail, and a collaborative mindset that ensures success.”",
+            "designation": "<span>Nensi Boghani</span> - UI/UX Designer"
+        },
+        {
+            "website": "LinkedIn",
+            "link": "https://www.linkedin.com/in/harshal-dholakia-a2796540/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+            "details": "“Collaborating with Parth has always been seamless. He listens carefully, communicates ideas with clarity, and ensures that every design decision strengthens both the product and the team’s workflow.”",
+            "designation": "<span>Harshal Dholakiya</span> - Product Manager"
+        },
+        {
+            "website": "LinkedIn",
+            "link": "https://www.linkedin.com/in/rhythm-purani-29b41259/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+            "details": "“Parth is a dedicated and creative designer who consistently delivers thoughtful solutions. He combines strong design skills with a collaborative approach, making every project more efficient and impactful.”",
+            "designation": "<span>Rhythm Purani</span> - Project Manager"
+        },
+        {
+            "website": "LinkedIn",
+            "link": "",
+            "details": "“What impressed me most about Parth is how easily he connects design with development. His eye for usability and his teamwork mindset consistently lead to products that feel intuitive and effective.”",
+            "designation": "<span>Meet Patoliya</span> - Software Developer"
+        },
+        {
+            "website": "LinkedIn",
+            "link": "",
+            "details": "“Parth has been an excellent mentor throughout my journey as a junior designer. His guidance, feedback, and encouragement helped me refine my skills and approach design with greater clarity and confidence.”",
+            "designation": "<span>Hitakshi Rathod</span> - UI/UX Designer"
+        },
+        {
+            "website": "LinkedIn",
+            "link": "https://www.linkedin.com/in/shailesh-dhapa-b83116146/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+            "details": "“Parth’s designs always reflect a balance between user experience and performance. His ability to create intuitive, SEO-friendly interfaces makes websites both engaging for users and effective in search visibility.”",
+            "designation": "<span>Shailesh Dhapa</span> - Sr. SEO Specialist"
+        },
+        {
+            "website": "LinkedIn",
+            "link": "https://www.linkedin.com/in/naiyap7823/",
+            "details": "“Parth’s designs always reflect a balance between user experience and performance. His ability to create intuitive, SEO-friendly interfaces makes websites both engaging for users and effective in search visibility.”",
+            "designation": "<span>Naiya Patel</span> - UI/UX Designer"
         }
     ]
 }

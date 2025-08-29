@@ -3,9 +3,25 @@ const ExpertArea = () => {
     { id: 1, icon: "assets/img/icons/figma.svg", name: "Figma" },
     { id: 2, icon: "assets/img/icons/notion.svg", name: "Notion" },
     { id: 3, icon: "assets/img/icons/mico.svg", name: "Miro" },
-    { id: 4, icon: "assets/img/icons/framer.svg", name: "Framer" },
-    { id: 5, icon: "assets/img/icons/webflow.svg", name: "Webflow" },
-    { id: 6, icon: "assets/img/icons/zeplin.svg", name: "Zeplin" },
+    { id: 4, icon: "assets/img/icons/procreate.svg", name: "Procreate" },
+    { id: 5, icon: "assets/img/icons/Photoshop.svg", name: "Photoshop" },
+    { id: 6, icon: "assets/img/icons/Illustrator.svg", name: "Illustrator" },
+    { id: 7, icon: "assets/img/icons/Adobe.svg", name: "Adobe" },
+    { id: 8, icon: "assets/img/icons/Adobecc.svg", name: "Adobe CC" },
+    { id: 9, icon: "assets/img/icons/Sketch.svg", name: "Sketch" },
+    { id: 10, icon: "assets/img/icons/Jira.svg", name: "Jira" },
+    { id: 11, icon: "assets/img/icons/Framer.svg", name: "Framer" },
+    { id: 12, icon: "assets/img/icons/Canva.svg", name: "Canva" },
+    { id: 13, icon: "assets/img/icons/Balsamiq.svg", name: "Balsamiq" },
+    { id: 14, icon: "assets/img/icons/ProtoPie.svg", name: "ProtoPie" },
+    { id: 15, icon: "assets/img/icons/Adobexd.svg", name: "Adobe XD" },
+    { id: 14, icon: "assets/img/icons/Maze.svg", name: "Maze" },
+    { id: 14, icon: "assets/img/icons/InDesign.svg", name: "InDesign" },
+    { id: 14, icon: "assets/img/icons/Asana.svg", name: "Asana" },
+    { id: 14, icon: "assets/img/icons/Slack.svg", name: "Slack" },
+    { id: 14, icon: "assets/img/icons/Mockup.svg", name: "Mockup" }
+
+
   ];
   return (
     <div className="card expertise-card">
