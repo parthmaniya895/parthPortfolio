@@ -74,7 +74,7 @@ const ProfileCard = () => {
             </a>
             <button
               className={`btn btn-copy ${toggle ? "active" : ""}`}
-              data-clipboard-text="example@example.com"
+              data-clipboard-text="hello@parthmaniya.com"
               onClick={() => toggleBtn()}
             >
               <svg
