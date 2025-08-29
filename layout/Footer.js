@@ -4,9 +4,9 @@ const Footer = () => {
       <div className="container">
         <div className="text text-center">
           <p>
-            @ BentoFolio {new Date().getFullYear()}, Design By{" "}
-            <a target="_blank" href="https://themeforest.net/user/codeefly">
-              Codeefly
+            @ Parth-folio {new Date().getFullYear()}, Design By{" "}
+            <a target="_blank" href="https://www.parthmaniya.com/">
+              Parth Maniya
             </a>
           </p>
         </div>
