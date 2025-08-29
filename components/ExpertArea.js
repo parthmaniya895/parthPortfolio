@@ -93,7 +93,7 @@ const WorkExperience = () => {
   return (
     <div className="card expertise-card">
       <div className="card-body work-experiance-card">
-        <h3 className="card-title">Work Experience</h3>
+        <h3 className="card-title">My Expert Area</h3>
         <div className="work-experiance-main expertise-main">
           <Experience />
           <Experience />
