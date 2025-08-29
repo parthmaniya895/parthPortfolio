@@ -779,14 +779,14 @@ p {
 /* End education */
 
 .expertise-card {
-  overflow: hidden;
+  /* overflow: hidden; */
   height: 299px;
 }
-.expertise-card .expertise-main {
+/* .expertise-card .expertise-main {
     max-height: 220px;
     overflow-x: hidden;
     overflow-y: scroll; 
-}
+} */
 
 .expertise-card .expertise-item {
   text-align: center;
