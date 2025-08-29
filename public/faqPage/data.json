@@ -1,0 +1,25 @@
+{
+    "title": "Frequently Asked Questions",
+    "listItems": [
+        { 
+            "id": 1, 
+            "Question": "What does a product designer need to know?", 
+            "Answer": "I'm here to help if you're searching for a product designer to bring your idea to life or a design partner to help take your business to the next level." 
+        },
+        { 
+            "id": 2, 
+            "Question": "What does a product designer need to know?", 
+            "Answer": "I'm here to help if you're searching for a product designer to bring your idea to life or a design partner to help take your business to the next level." 
+        },
+        { 
+            "id": 3, 
+            "Question": "What does a product designer need to know?", 
+            "Answer": "I'm here to help if you're searching for a product designer to bring your idea to life or a design partner to help take your business to the next level." 
+        },
+        { 
+            "id": 4, 
+            "Question": "What does a product designer need to know?", 
+            "Answer": "I'm here to help if you're searching for a product designer to bring your idea to life or a design partner to help take your business to the next level." 
+        }
+    ]
+}

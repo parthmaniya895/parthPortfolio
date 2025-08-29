@@ -1,7 +1,25 @@
+"use client";
+import axios from "axios";
+import { useEffect, useState } from "react";
 import ContactForm from "@/components/ContactForm";
 import Faq from "@/components/Faq";
 import BentoFolioLayout from "@/layout/BentoFolioLayout";
 const page = () => {
+  const [data, setData] = useState([]);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const res = await axios.get("/contactPage/data.json");
+        setData(res.data);
+      } catch (err) {
+        console.error("Error fetching portfolio data:", err);
+      }
+    };
+
+    fetchData();
+  }, []);
+
   return (
     <BentoFolioLayout>
       <div className="col-xl-8">
@@ -9,14 +27,8 @@ const page = () => {
           <div className="card-body portfolio-card contact-card">
             <div className="top-info">
               <div className="text">
-                <h1 className="main-title">
-                  Let's 👋 <span>Work</span> Together
-                </h1>
-                <p>
-                  I'm here to help if you're searching for a product designer to
-                  bring your idea to life or a design partner to help take your
-                  business to the next level.
-                </p>
+                <h1 className="main-title">{data?.title}</h1>
+                <p>{data?.subtitle}</p>
               </div>
             </div>
             <div className="contact-area">

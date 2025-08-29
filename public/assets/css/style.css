@@ -612,7 +612,7 @@ p {
 }
 
 .work-experiance-card .work-experiance-slider {
-  animation: scrollY 10s linear infinite;
+  animation: scrollY 20s linear infinite;
 }
 
 /* Start Education */
@@ -628,12 +628,12 @@ p {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  overflow: auto;
+  /* overflow: auto; */
 }
 
-/* .education-card .education-slider {
-  animation: scrollY 10s linear infinite;
-} */
+.education-card .education-slider {
+  animation: scrollY 20s linear infinite;
+}
 
 /* End education */
 
@@ -727,9 +727,9 @@ p {
   animation-play-state: paused;
 }
 
-/* .education-card .education-slider li .date {
+.education-card .education-slider li .date {
   margin-right: 40px;
-} */
+}
 
 .education-card .education-slider li .date p {
   font-size: 14px;

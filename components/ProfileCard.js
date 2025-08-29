@@ -36,7 +36,7 @@ const ProfileCard = () => {
           <p>
             A Passionate <span>Product Designer</span> 🖥️ &amp;{" "}
             <span>User Experience Designer</span> having <span>2+ years</span> of
-            Experiences over 20+ Clients Worldwide.
+            Experiences over 24+ Clients Worldwide.
           </p>
           <div className="common-button-groups">
             <a className="btn btn-call" href="#">
