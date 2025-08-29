@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "/_not-found/page": "app/_not-found/page.js",
   "/contact/page": "app/contact/page.js",
@@ -6,3 +7,6 @@
   "/favicon.ico/route": "app/favicon.ico/route.js",
   "/about/page": "app/about/page.js"
 }
+=======
+{}
+>>>>>>> 3ea4563a18b8c5fad49c789647ecb6f41a4f33b1
