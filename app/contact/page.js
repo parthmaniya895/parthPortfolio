@@ -27,8 +27,8 @@ const page = () => {
           <div className="card-body portfolio-card contact-card">
             <div className="top-info">
               <div className="text">
-                <h1 className="main-title">{data?.title}</h1>
-                <p>{data?.subtitle}</p>
+                <h1 className="main-title" dangerouslySetInnerHTML={{ __html: data?.title }}></h1>
+                <p dangerouslySetInnerHTML={{ __html: data?.subtitle }}></p>
               </div>
             </div>
             <div className="contact-area">
