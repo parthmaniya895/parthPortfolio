@@ -28,8 +28,8 @@ const ExpertArea = () => {
       <div className="card-body">
         <h3 className="card-title">My Expert Area</h3>
         <div className="expertise-main mt-24">
-          <div className="row g-3">
-            {expertItems.map((item) => (
+          <div className="education-slider row g-3">
+            {expertItems?.map((item) => (
               <div className="col-xl-4 col-md-4 col-sm-6 col-6" key={item.id}>
                 <div className="expertise-item">
                   <div className="image text-center">
@@ -41,6 +41,18 @@ const ExpertArea = () => {
                 </div>
               </div>
             ))}
+            {/* {expertItems.map((item) => (
+              <div className="col-xl-4 col-md-4 col-sm-6 col-6" key={item.id}>
+                <div className="expertise-item">
+                  <div className="image text-center">
+                    <img src={item.icon} alt={item.name} />
+                  </div>
+                  <div className="text">
+                    <h4 className="title">{item.name}</h4>
+                  </div>
+                </div>
+              </div>
+            ))} */}
           </div>
         </div>
       </div>
