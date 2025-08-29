@@ -9,7 +9,7 @@ const Education = ({ educationsItems }) => {
         <li key={item.id}>
           <div className="date">
             <p>{item.date}</p>
-            <span>Information Technology</span>
+            <span>{item.jobTitle}</span>
           </div>
           <div className="info">
             <div className="icon">
