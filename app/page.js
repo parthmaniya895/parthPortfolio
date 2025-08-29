@@ -1,3 +1,4 @@
+import EducationSection from "@/components/Educations";
 import ExpertArea from "@/components/ExpertArea";
 import Projects from "@/components/Projects";
 import Services from "@/components/Services";
@@ -12,7 +13,8 @@ const page = () => {
             <WorkExperience />
           </div>
           <div className="col-lg-12">
-            <ExpertArea />
+            {/* <ExpertArea /> */}
+            <EducationSection />
           </div>
         </div>
       </div>

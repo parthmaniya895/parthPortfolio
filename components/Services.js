@@ -1,5 +1,6 @@
 import Link from "next/link";
 import ServiceItem from "./ServiceItem";
+import ExpertArea from "./ExpertArea";
 
 const Services = () => {
   const serviceItems = [
@@ -64,7 +65,8 @@ const Services = () => {
           </div>
         </div>
         <div className="col-xl-4">
-          <div className="card lets-talk-together-card">
+          <ExpertArea />
+          {/* <div className="card lets-talk-together-card">
             <div className="card-body">
               <div className="scrolling-info">
                 <div className="slider-item">
@@ -104,7 +106,7 @@ const Services = () => {
                 </svg>
               </Link>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>

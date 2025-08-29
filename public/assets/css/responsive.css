@@ -25,6 +25,19 @@
     margin-right: 30px;
   }
 
+  /* Start education */
+
+  .education-card .education-slider li {
+    display: flex !important;
+    gap: 5px;
+  }
+
+  .education-card .education-slider li .date {
+    margin-right: 30px;
+  }
+
+  /* End education */
+
   .content-box-card .working-with-area .working-with-main {
     gap: 16px;
   }
@@ -408,6 +421,14 @@
   .work-experiance-card .work-experiance-slider li {
     flex-direction: column;
   }
+  
+  /* Start education */
+  
+  .education-card .education-slider li {
+    flex-direction: column;
+  }
+
+  /* End education */
 
   .card-title {
     gap: 6px;
