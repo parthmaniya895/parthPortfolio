@@ -19,7 +19,8 @@ const ProfileCard = () => {
   };
 
   const socialItems = [
-    { id: 1, url: "http://www.linkedin.com/in/parthmaniya", name: "LinkedIn", icon: "fab fa-linkedin" },
+    {
+      id: 1, url: "https://www.linkedin.com/in/parthmaniya", name: "LinkedIn", icon: "fab fa-linkedin"},
     { id: 2, url: "#", name: "Instagram", icon: "fab fa-instagram" },
     { id: 3, url: "#", name: "Facebook", icon: "fab fa-facebook" },
     { id: 4, url: "#", name: "Dribbble", icon: "fab fa-dribbble" },
@@ -107,8 +108,14 @@ const ProfileCard = () => {
             <ul className="list-unstyled">
               {socialItems.map((item) => (
                 <li key={item.id}>
-                  <a href={item.href}>
-                    <i className={item.icon} />
+                  <a
+                    key={item.id}
+                    href={item.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="social-link"
+                  >
+                    <i className={item.icon}></i>
                   </a>{" "}
                 </li>
               ))}
