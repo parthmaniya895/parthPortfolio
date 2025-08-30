@@ -24,7 +24,7 @@ const ProfileCard = () => {
     { id: 2, url: "#", name: "Instagram", icon: "fab fa-instagram" },
     { id: 3, url: "#", name: "Facebook", icon: "fab fa-facebook" },
     { id: 4, url: "#", name: "Dribbble", icon: "fab fa-dribbble" },
-    { id: 5, url: "#", name: "Behance", icon: "fab fa-behance" },
+    { id: 5, url: "https://www.behance.net/parthmaniya22", name: "Behance", icon: "fab fa-behance" },
     { id: 6, url: "#", name: "YouTube", icon: "fab fa-youtube" }
   ];
 
