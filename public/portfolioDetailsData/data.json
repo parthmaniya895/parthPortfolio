@@ -117,7 +117,7 @@
         "subtitle": "Mobile App Design | UX Design",
         "projectMainPageImg": "../../assets/img/projects/project-2.png",
         "img": "../../assets/img/projects/vpaymain.png",
-        "alt": "project-details-2",
+        "alt": "vpaymain",
         "ClientFor": {
             "title": "Client For",
             "content": "Vpay."
@@ -152,12 +152,12 @@
             {
                 "id": 1,
                 "image": "../assets/img/projects/vpay-details-1.png",
-                "altTag": "project-details-2"
+                "altTag": "vpay-details-1"
             },
             {
                 "id": 2,
                 "image": "../assets/img/projects/vpay-details-2.png",
-                "altTag": "project-details-3"
+                "altTag": "vpay-details-2"
             }
         ],
         "Challenges": {
@@ -215,8 +215,8 @@
         "title": "Gifteview - Gift Review Website",
         "subtitle": "Web Design | UI/UX Design",
         "projectMainPageImg": "../assets/img/projects/project-3.png",
-        "img": "../assets/img/projects/project-3.png",
-        "alt": "project-details-3",
+        "img": "../assets/img/projects/gifteviewmain.png",
+        "alt": "gifteviewmain",
         "ClientFor": {
             "title": "Client For",
             "content": "Gifteview"
@@ -250,13 +250,13 @@
         "innerImages": [
             {
                 "id": 1,
-                "image": "../assets/img/projects/project-details-2.png",
-                "altTag": "project-details-2"
+                "image": "../assets/img/projects/gifteview-details-1.png",
+                "altTag": "gifteview-details-1"
             },
             {
                 "id": 2,
-                "image": "../assets/img/projects/project-details-3.png",
-                "altTag": "project-details-3"
+                "image": "../assets/img/projects/gifteview-details-2.png",
+                "altTag": "gifteview-details-2"
             }
         ],
         "Challenges": {
