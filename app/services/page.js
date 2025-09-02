@@ -1,3 +1,4 @@
+"use client";
 import Awards from "@/components/Awards";
 import Brands from "@/components/Brands";
 import Faq from "@/components/Faq";
