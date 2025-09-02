@@ -125,7 +125,7 @@ const ContactForm = () => {
                   <option disabled={true} value={"select"}>
                     Select budget...
                   </option>
-                  <option value="$5000">Under $100</option>
+                  <option value="$5000">$100</option>
                   <option value="$5000 - $1000">$100 - $500</option>
                   <option value="$10000 - $2000">$5000 - $1000</option>
                   <option value="$20000">$1000+</option>
