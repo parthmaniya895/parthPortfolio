@@ -631,9 +631,9 @@ p {
   /* overflow: auto; */
 }
 
-/* .education-card .education-slider {
-  animation: scrollY 20s linear infinite;
-} */
+.education-card .education-slider {
+  animation: scrollY 24s linear infinite;
+}
 
 /* End education */
 
