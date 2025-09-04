@@ -1,8 +1,16 @@
 {
-    "title": "Education Background",
-    "eductionItems": [
+  "title": "Education Background",
+  "eductionItems": [
     {
-      "id": 1,
+      "id": 5,
+      "title": "UX Certification",
+      "subTitle": "FutureLearn",
+      "jobTitle": "Class 1st - 8th",
+      "icon": "/assets/img/icons/futurelearn.svg",
+      "date": "2007-2015"
+    },
+    {
+      "id": 2,
       "title": "Bachelor of Engineering",
       "subTitle": "GTU - Public University",
       "jobTitle": "Information Technology",
@@ -10,7 +18,7 @@
       "date": "2019-2023"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Higher Secondary edu.",
       "subTitle": "GSHSEB",
       "jobTitle": "Class 11th - 12th",
@@ -18,7 +26,7 @@
       "date": "2017-2019"
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Secondary Education",
       "subTitle": "GSHSEB",
       "jobTitle": "Class 9th - 10th",
@@ -26,13 +34,12 @@
       "date": "2015-2017"
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Primary Education",
       "subTitle": "GSEB",
       "jobTitle": "Class 1st - 8th",
       "icon": "/assets/img/icons/GSHSEB.svg",
       "date": "2007-2015"
     }
-    
   ]
 }
